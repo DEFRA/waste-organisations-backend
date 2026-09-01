@@ -6,7 +6,6 @@ Core delivery C# ASP.NET backend template.
 * [Inspect MongoDB](#inspect-mongodb)
 * [Testing](#testing)
 * [Running](#running)
-* [Dependabot](#dependabot)
 
 
 ### Docker Compose
@@ -83,12 +82,6 @@ dotnet run --project WasteOrganisationsBackend --launch-profile Development
 ### SonarCloud
 
 Example SonarCloud configuration are available in the GitHub Action workflows.
-
-### Dependabot
-
-We have added an example dependabot configuration file to the repository. You can enable it by renaming
-the [.github/example.dependabot.yml](.github/example.dependabot.yml) to `.github/dependabot.yml`
-
 
 ### About the licence
 
