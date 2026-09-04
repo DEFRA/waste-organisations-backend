@@ -79,10 +79,6 @@ Run CDP-Deployments application:
 dotnet run --project WasteOrganisationsBackend --launch-profile Development
 ```
 
-### SonarCloud
-
-Example SonarCloud configuration are available in the GitHub Action workflows.
-
 ### About the licence
 
 The Open Government Licence (OGL) was developed by the Controller of Her Majesty's Stationery Office (HMSO) to enable
